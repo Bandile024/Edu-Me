@@ -30,6 +30,12 @@ input{
     border-radius: 5px;
 }
 
+.navbar a.active{
+    background-color: #005bb5;
+    border-radius: 5px;
+    border: 1px solid black;
+}
+
 .trending-jobs{
     border: 1px solid black;
     margin-top: 20px;
