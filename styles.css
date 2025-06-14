@@ -37,7 +37,7 @@ input{
     border: 1px solid black;
 }
 
-.Subject-1{
+.subject-1{
     border: 1px solid black;
     margin-top: 20px;
     width: 100%;
@@ -45,13 +45,13 @@ input{
     border-radius: 15px;
 }
 
-.Subject-1 h3 {
+.subject-1 h3 {
     color: black;
     font-size: 18px;
     margin-left: 10px;
 }
 
-.Subject-2{
+.subject-2{
     border: 1px solid black;
     margin-top: 20px;
     width: 100%;
