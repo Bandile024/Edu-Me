@@ -14,10 +14,10 @@ input{
 
 .navbar{
     padding-top: 10px;
-    justify-content: space-evenly;
+    justify-content: center;
     align-items: center;
     display: flex
-    width: 200px;
+    width: 80%;
 }
 
 .navbar ul {
