@@ -67,6 +67,12 @@ input{
     border-radius: 15px;
 }
 
+.Subject-2 h3 {
+    color: black;
+    font-size: 18px;
+    margin-left: 10px;
+}
+
 .Subject-3{
     border: 1px solid black;
     margin-top: 20px;
@@ -75,12 +81,24 @@ input{
     border-radius: 15px;
 }
 
+.Subject-3 h3 {
+    color: black;
+    font-size: 18px;
+    margin-left: 10px;
+}
+
 .Subject-4{
     border: 1px solid black;
     margin-top: 20px;
     width: 100%;
     height: 200px;
     border-radius: 15px;
+}
+
+.Subject-4 h3 {
+    color: black;
+    font-size: 18px;
+    margin-left: 10px;
 }
 
 .footer-1{
