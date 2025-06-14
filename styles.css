@@ -20,8 +20,8 @@ input{
 }
 
 .navbar ul {
-    display: flex;
-    flex-wrap: wrap; /* Ensures items wrap on smaller screens */
+    display: block;
+    flex-direction; /* Ensures items wrap on smaller screens */
     justify-content: center;
 }
 
