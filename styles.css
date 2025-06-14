@@ -37,7 +37,7 @@ input{
     border: 1px solid black;
 }
 
-.trending-jobs{
+.Subject-1{
     border: 1px solid black;
     margin-top: 20px;
     width: 100%;
@@ -45,13 +45,13 @@ input{
     border-radius: 15px;
 }
 
-.trending-jobs h3 {
+.Subject-1 h3 {
     color: black;
     font-size: 18px;
     margin-left: 10px;
 }
 
-.college-qualifications{
+.Subject-2{
     border: 1px solid black;
     margin-top: 20px;
     width: 100%;
@@ -59,7 +59,7 @@ input{
     border-radius: 15px;
 }
 
-.techUni-qualifications{
+.Subject-3{
     border: 1px solid black;
     margin-top: 20px;
     width: 100%;
@@ -67,7 +67,7 @@ input{
     border-radius: 15px;
 }
 
-.Uni-qualifications{
+.Subject-4{
     border: 1px solid black;
     margin-top: 20px;
     width: 100%;
