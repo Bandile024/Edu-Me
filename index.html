@@ -10,10 +10,11 @@
 <body>
     <!-- Your content goes here -->
 <header>
-    <div class="search-container">
-    <input type="text" id="search" placeholder="Search...">
-</div>
-
+    <form action="https://www.google.com/search" method="GET">
+    <input type="text" name="q" placeholder="Search Google...">
+    <button type="submit">🔍</button>
+    </form>
+    
 <nav class="navbar">
     
         <a href="index.html" class="active">Home</a>
@@ -63,6 +64,10 @@
     </div>
         <p>© 2025 Edu-Me. All rights reserved.</p>
     </footer>
+
+  <script async src="https://cse.google.com/cse.js?cx=73841b6dcaf924b62">
+</script>
+<div class="gcse-search"></div>  
 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
