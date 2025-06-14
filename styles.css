@@ -1,13 +1,14 @@
 .gcse-search {
     margin: 20px auto;
     width: 80%;
+    border-radius: 20px;
 }
 
-input{
+.gcse-search input{
     padding: 8px;
     font-size: 16px;
     border: 1px solid black;
-    border-radius: 20px;
+    border-radius: 20px !important;
     width: 80%;  
 }
 
