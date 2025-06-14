@@ -19,11 +19,19 @@ input{
     display: flex
 }
 
+.navbar ul {
+    display: flex;
+    flex-wrap: wrap; /* Ensures items wrap on smaller screens */
+    justify-content: center;
+}
+
 .navbar a{
     text-decoration:none;
     color: black;
     border-bottom: 1px solid darkcyan;
     border-radius: 6px;
+    padding: 10px;
+    min-width: 100px;
 }
 
 .navbar a:hover {
